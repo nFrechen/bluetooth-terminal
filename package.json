@@ -1,6 +1,6 @@
 {
   "name": "bluetooth-terminal",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Class that enables bidirectional serial communication between web browsers and Bluetooth Low Energy modules via the Web Bluetooth API",
   "main": "dist/BluetoothTerminal.js",
   "files": [
